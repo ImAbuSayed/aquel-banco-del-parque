@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquel-banco-del-parque/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Aquel banco del parque](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquel-banco-del-parque/) |
+| **Get License** | [Get a Licensing Quote for Aquel banco del parque](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquel-banco-del-parque/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7fb3c77ff6b87163371a52e093eb84bdf4e155b2b1a65ade46bfc68713f62f40` |
 | **Timestamp** | June 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

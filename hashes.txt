@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquel banco del parque
+
+This log tracks the cryptographic history and versioning for the song **Aquel banco del parque** (aquel-banco-del-parque).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-13T18:44:13.535965 | `v1` | `7fb3c77ff6b87163371a52e093eb84bdf4e155b2b1a65ade46bfc68713f62f40` | `aa6244d8c637b476f691e5bc3dad534afdeb50ddeb115ac80e90636cf53c1ebd` | `2026-06-13_aquel-banco-del-parque-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
