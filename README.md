@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquel-banco-del-parque/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Aquel banco del parque](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquel-banco-del-parque/) |
+| **Get License** | [Get License For Aquel banco del parque](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquel-banco-del-parque/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Aquel banco del parque donde el fuego comenzó
+> Tu mirada me atrapó y el destino nos unió
+> Hoy estamos en la cima, you know we run the city
+> Tu belleza me fascina, baby looking so pretty
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
